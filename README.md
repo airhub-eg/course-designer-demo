@@ -433,4 +433,4 @@ npm start
 http://localhost:3000
 ```
 
-![Alt text](./data/screenshots/main-screen.png "Main-Screen")
+![Alt text](public/assets/screenshots/main-screen.png "Main-Screen")
