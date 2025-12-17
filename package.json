@@ -1,0 +1,23 @@
+{
+  "name": "course-designer-template",
+  "version": "1.0.0",
+  "description": "Professional course design template using Node.js and HTML",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "course",
+    "design",
+    "education",
+    "template"
+  ],
+  "author": "",
+  "dependencies": {
+    "express": "^4.22.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
